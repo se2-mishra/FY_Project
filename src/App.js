@@ -15,7 +15,7 @@ import witnessSvg from "./resources/witness.svg";
 import './App.css';
 
 
-// New Folder
+// New
 
 
 class App extends Component {
